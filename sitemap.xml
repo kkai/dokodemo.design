@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://dokodemo.design/</loc>
+    </url>
+    <url>
+        <loc>http://dokodemo.design/about/</loc>
+    </url>
+    <url>
+        <loc>http://dokodemo.design/categories/</loc>
+    </url>
+    <url>
+        <loc>http://dokodemo.design/categories/concept/</loc>
+    </url>
+    <url>
+        <loc>http://dokodemo.design/categories/design/</loc>
+    </url>
+    <url>
+        <loc>http://dokodemo.design/page/1/</loc>
+    </url>
+    <url>
+        <loc>http://dokodemo.design/tags/</loc>
+    </url>
+    <url>
+        <loc>http://dokodemo.design/tags/minimalist/</loc>
+    </url>
+    <url>
+        <loc>http://dokodemo.design/tags/text-mode/</loc>
+    </url>
+    <url>
+        <loc>http://dokodemo.design/textfirst/</loc>
+        <lastmod>2019-08-07</lastmod>
+    </url>
+</urlset>
